@@ -1,0 +1,24 @@
+{
+  "name": "jest_matcher_examples",
+  "version": "1.0.0",
+  "description": "All examples in jest doc website (matcher page)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tharindu-98/jest_matcher_examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tharindu-98/jest_matcher_examples/issues"
+  },
+  "homepage": "https://github.com/Tharindu-98/jest_matcher_examples#readme",
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-plugin-jest": "^25.3.4",
+    "jest": "^27.4.7"
+  }
+}
