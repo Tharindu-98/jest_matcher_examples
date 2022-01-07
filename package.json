@@ -4,7 +4,8 @@
   "description": "All examples in jest doc website (matcher page)",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
     "eslint": "^8.6.0",
     "eslint-plugin-jest": "^25.3.4",
     "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "@types/jest": "^27.4.0"
   }
 }
