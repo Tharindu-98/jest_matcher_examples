@@ -18,11 +18,9 @@
   },
   "homepage": "https://github.com/Tharindu-98/jest_matcher_examples#readme",
   "devDependencies": {
+    "@types/jest": "^27.4.0",
     "eslint": "^8.6.0",
     "eslint-plugin-jest": "^25.3.4",
     "jest": "^27.4.7"
-  },
-  "dependencies": {
-    "@types/jest": "^27.4.0"
   }
 }
